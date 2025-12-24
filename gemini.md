@@ -18,6 +18,6 @@
 
 ## 4. Operational Instructions for the Agent
 
-- **Linting policy:** Disable auto-linting during logic implementation. Do not perform any linting or stylisting changes to any existing lines of code unless a change in functionality is required from those lines of code
+- **Linting policy:** Disable auto-linting. Do not perform any linting or stylisting changes to any existing lines of code.
 - **Task management:** Actively scan the codebase for `// TODO AI:` comments and prioritize them as the primary task list.
 - **Specificity:** Do not accept generic prompts such as “fix the button.” Request or use specific component names, for example, “update the toggle component in `sim_renderer.js`.”
